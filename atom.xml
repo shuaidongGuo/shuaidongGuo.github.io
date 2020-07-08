@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuaidongGuo.github.io</id>
     <title>Gridea</title>
-    <updated>2020-07-08T11:47:37.438Z</updated>
+    <updated>2020-07-08T12:32:56.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuaidongGuo.github.io"/>
     <link rel="self" href="https://shuaidongGuo.github.io/atom.xml"/>
@@ -10,4 +10,58 @@
     <logo>https://shuaidongGuo.github.io/images/avatar.png</logo>
     <icon>https://shuaidongGuo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[个人信息]]></title>
+        <id>https://shuaidongGuo.github.io/post/ge-ren-xin-xi/</id>
+        <link href="https://shuaidongGuo.github.io/post/ge-ren-xin-xi/">
+        </link>
+        <updated>2020-07-08T11:47:47.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="个人简介">个人简介</h1>
+<h2 id="基本信息">基本信息</h2>
+<p><strong>姓名</strong>：    郭帅东    <strong>性别</strong>：男      <strong>年龄</strong>：<em>22</em>       <strong>职业</strong>：大学僧</p>
+<p><strong>爱好：</strong></p>
+<ul>
+<li>刷小视频、打LOL、打篮球</li>
+<li>学一些有用或有趣的电脑或编程技能</li>
+</ul>
+<p><strong>人生格言：</strong></p>
+<blockquote>
+<p> 手握日月摘星辰，世上无我这般人。</p>
+</blockquote>
+<pre><code class="language-python">def main():
+    print(&quot;手握日月摘星辰，世上无我这般人。&quot;) #人生格言！
+
+    if_name_=='_main_':
+        main()
+</code></pre>
+<h2 id="联系方式">联系方式</h2>
+<ol>
+<li>邮箱：<em>gsd_2021@163.com</em></li>
+<li>qq：<em>1070835697</em></li>
+</ol>
+<h2 id="待办事项">待办事项</h2>
+<p><strong>2020下半年要完成：</strong></p>
+<ul>
+<li>[ ]通过2021研究生考试</li>
+<li>[ ]本科不挂科</li>
+</ul>
+<p><strong>修订记录：</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">  时间  </th>
+<th style="text-align:center"> 内容 </th>
+<th style="text-align:center">版本</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">2020.07.08</td>
+<td style="text-align:center">修订完毕</td>
+<td style="text-align:center">v0.1</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
 </feed>
